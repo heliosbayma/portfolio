@@ -6,7 +6,7 @@ It will be hosted at heliosbayma.com where today lies a small list of projects. 
 
 I am developing it with
 - NodeJS 
-- npm (trying version 5 after starting to deal with Yarn)
+- npm (trying version 5 after starting to play with Yarn)
 - Webpack 2
 - Airbnb ESLint
 (...)
